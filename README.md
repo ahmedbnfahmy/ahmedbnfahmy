@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on web development projects that require the MEAN (MongoDB, Express.js, Angular, React, Node.js) stack.<br><br>🤝 I’m looking for help with optimizing performance and scalability of web applications built with the MEAN stack.<br><br>🌱 I’m currently learning best practices for implementing real-time features using WebSockets and Socket.io in MEAN stack applications.<br><br>💬 Ask me about integrating third-party APIs, implementing user authentication and authorization, and deploying MEAN stack applications on cloud platforms like AWS and Azure.
+👯 I’m looking to collaborate on web development projects that require the MEARN (MongoDB, Express.js, Angular, React, Node.js) stack.<br><br>🤝 I’m looking for help with optimizing performance and scalability of web applications built with the MEAN stack.<br><br>🌱 I’m currently learning best practices for implementing real-time features using WebSockets and Socket.io in MEAN stack applications.<br><br>💬 Ask me about integrating third-party APIs, implementing user authentication and authorization, and deploying MEAN stack applications on cloud platforms like AWS and Azure.
 
 
 ## 🌐 Socials:

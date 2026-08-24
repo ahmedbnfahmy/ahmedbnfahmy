@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👨‍💻 **Full-Stack Developer** with **3+ years** of experience building scalable web applications, SaaS platforms, and AI-powered products.
+👨‍💻 **Full-Stack Developer** with **4+ years** of experience building scalable web applications, SaaS platforms, and AI-powered products.
 
 🚀 I design and ship end-to-end solutions with **React**, **Next.js**, **Angular**, **Node.js**, and **NestJS** — focused on clean architecture, performance, and reliable delivery.
 
